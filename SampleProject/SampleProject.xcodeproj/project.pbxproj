@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		88A9C0371E20DEB3001D4382 /* PrintfOne.c in Sources */ = {isa = PBXBuildFile; fileRef = 88A9C0361E20DEB3001D4382 /* PrintfOne.c */; };
+		88A9C0391E20E033001D4382 /* SimpleAddOne.c in Sources */ = {isa = PBXBuildFile; fileRef = 88A9C0381E20E033001D4382 /* SimpleAddOne.c */; };
+		88A9C03B1E20E0CA001D4382 /* VarDeclAndInit.c in Sources */ = {isa = PBXBuildFile; fileRef = 88A9C03A1E20E0CA001D4382 /* VarDeclAndInit.c */; };
+		88A9C03D1E20E4F2001D4382 /* SimpleAddTwo.c in Sources */ = {isa = PBXBuildFile; fileRef = 88A9C03C1E20E4F2001D4382 /* SimpleAddTwo.c */; };
+		88A9C03F1E20E6BE001D4382 /* OperatorFour.c in Sources */ = {isa = PBXBuildFile; fileRef = 88A9C03E1E20E6BE001D4382 /* OperatorFour.c */; };
+		88A9C0411E20E91B001D4382 /* OperatorSix.c in Sources */ = {isa = PBXBuildFile; fileRef = 88A9C0401E20E91B001D4382 /* OperatorSix.c */; };
+		88A9C0431E20EA33001D4382 /* OperatorSeven.c in Sources */ = {isa = PBXBuildFile; fileRef = 88A9C0421E20EA33001D4382 /* OperatorSeven.c */; };
 		88C1A67A1E1A93430050CA7C /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88C1A6791E1A93430050CA7C /* main.c */; };
 		88C1A6841E1A946C0050CA7C /* Hello.c in Sources */ = {isa = PBXBuildFile; fileRef = 88C1A6831E1A946C0050CA7C /* Hello.c */; };
 /* End PBXBuildFile section */
@@ -24,6 +31,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		88A9C0361E20DEB3001D4382 /* PrintfOne.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PrintfOne.c; sourceTree = "<group>"; };
+		88A9C0381E20E033001D4382 /* SimpleAddOne.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = SimpleAddOne.c; sourceTree = "<group>"; };
+		88A9C03A1E20E0CA001D4382 /* VarDeclAndInit.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = VarDeclAndInit.c; sourceTree = "<group>"; };
+		88A9C03C1E20E4F2001D4382 /* SimpleAddTwo.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = SimpleAddTwo.c; sourceTree = "<group>"; };
+		88A9C03E1E20E6BE001D4382 /* OperatorFour.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OperatorFour.c; sourceTree = "<group>"; };
+		88A9C0401E20E91B001D4382 /* OperatorSix.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OperatorSix.c; sourceTree = "<group>"; };
+		88A9C0421E20EA33001D4382 /* OperatorSeven.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OperatorSeven.c; sourceTree = "<group>"; };
 		88C1A6761E1A93430050CA7C /* SampleProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SampleProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C1A6791E1A93430050CA7C /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		88C1A6831E1A946C0050CA7C /* Hello.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Hello.c; sourceTree = "<group>"; };
@@ -61,6 +75,13 @@
 			children = (
 				88C1A6791E1A93430050CA7C /* main.c */,
 				88C1A6831E1A946C0050CA7C /* Hello.c */,
+				88A9C0361E20DEB3001D4382 /* PrintfOne.c */,
+				88A9C0381E20E033001D4382 /* SimpleAddOne.c */,
+				88A9C03A1E20E0CA001D4382 /* VarDeclAndInit.c */,
+				88A9C03C1E20E4F2001D4382 /* SimpleAddTwo.c */,
+				88A9C03E1E20E6BE001D4382 /* OperatorFour.c */,
+				88A9C0401E20E91B001D4382 /* OperatorSix.c */,
+				88A9C0421E20EA33001D4382 /* OperatorSeven.c */,
 			);
 			path = SampleProject;
 			sourceTree = "<group>";
@@ -123,7 +144,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88A9C0391E20E033001D4382 /* SimpleAddOne.c in Sources */,
 				88C1A6841E1A946C0050CA7C /* Hello.c in Sources */,
+				88A9C03F1E20E6BE001D4382 /* OperatorFour.c in Sources */,
+				88A9C0431E20EA33001D4382 /* OperatorSeven.c in Sources */,
+				88A9C03D1E20E4F2001D4382 /* SimpleAddTwo.c in Sources */,
+				88A9C03B1E20E0CA001D4382 /* VarDeclAndInit.c in Sources */,
+				88A9C0371E20DEB3001D4382 /* PrintfOne.c in Sources */,
+				88A9C0411E20E91B001D4382 /* OperatorSix.c in Sources */,
 				88C1A67A1E1A93430050CA7C /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -255,6 +283,7 @@
 				88C1A67F1E1A93430050CA7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -6,13 +6,13 @@
 //  Copyright © 2017년 seokjun lee. All rights reserved.
 //
 
-#include <stdio.h>
-
-int main(void)
-{
-    printf("hello world! \n");
-    return 0;
-}
+//#include <stdio.h>
+//
+//int main(void)
+//{
+//    printf("hello world! \n");
+//    return 0;
+//}
 
 //책에는 기본 '.c' 파일이 없었고, '.c' 파일을 만들고 해당 내용을 입력하라고 하였다.
 //실행하니 오류 발생
